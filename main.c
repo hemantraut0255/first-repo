@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+/*fix a bug*/
 int main(int argc, char **argv)
 {
 	char name[255];
